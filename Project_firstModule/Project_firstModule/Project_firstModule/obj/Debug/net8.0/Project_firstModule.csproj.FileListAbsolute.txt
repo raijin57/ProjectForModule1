@@ -1,0 +1,14 @@
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\bin\Debug\net8.0\Project_firstModule.exe
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\bin\Debug\net8.0\Project_firstModule.deps.json
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\bin\Debug\net8.0\Project_firstModule.runtimeconfig.json
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\bin\Debug\net8.0\Project_firstModule.dll
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\bin\Debug\net8.0\Project_firstModule.pdb
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\Project_firstModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\Project_firstModule.AssemblyInfoInputs.cache
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\Project_firstModule.AssemblyInfo.cs
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\Project_firstModule.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\Project_firstModule.dll
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\refint\Project_firstModule.dll
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\Project_firstModule.pdb
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\Project_firstModule.genruntimeconfig.cache
+C:\Users\Arsen\Desktop\csharp\Project_firstModule\Project_firstModule\obj\Debug\net8.0\ref\Project_firstModule.dll
